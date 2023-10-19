@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aisha Hussain</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate Backend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cyberg.org/wp-content/uploads/2021/05/Blog-post.gif/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ash2344&label=Profile%20views&color=0e75b6&style=flat" alt="ash2344" /> </p>
 
